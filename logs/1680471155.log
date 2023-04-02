@@ -1,0 +1,103 @@
+2023-04-03 00:32:35,604 root INFO: main | trying to auth, login: viksnamax, password: 18200050mW, steamid: 76561198852062556
+2023-04-03 00:32:47,085 root INFO: main | success auth on platform
+2023-04-03 00:32:47,086 root INFO: main | line from ./data/input.txt: ak-47
+2023-04-03 00:32:47,803 root INFO: main | search result: [{'goods_ids': '857550', 'option': 'AK-47 | Slate (Field-Tested)'}, {'goods_ids': '33960', 'option': 'AK-47 | Redline (Field-Tested)'}, {'goods_ids': '900514', 'option': 'AK-47 | Ice Coaled (Field-Tested)'}, {'goods_ids': '857534', 'option': 'AK-47 | Slate (Minimal Wear)'}, {'goods_ids': '33965', 'option': 'AK-47 | Safari Mesh (Field-Tested)'}, {'goods_ids': '33887', 'option': 'AK-47 | Elite Build (Minimal Wear)'}, {'goods_ids': '779196', 'option': 'AK-47 | Phantom Disruptor (Field-Tested)'}, {'goods_ids': '763250', 'option': 'AK-47 | Asiimov (Field-Tested)'}, {'goods_ids': '900482', 'option': 'AK-47 | Ice Coaled (Minimal Wear)'}, {'goods_ids': '33886', 'option': 'AK-47 | Elite Build (Field-Tested)'}]
+2023-04-03 00:32:56,976 root INFO: main | reference price: 21.0
+2023-04-03 00:32:56,976 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:32:58,249 root INFO: main | sell_price: 23.8
+2023-04-03 00:32:58,249 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:32:58,249 root INFO: main | additional_amount: 3.15
+2023-04-03 00:32:58,250 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:32:59,168 root INFO: main | sell_price: 21.89
+2023-04-03 00:32:59,168 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:32:59,168 root INFO: main | additional_amount: 3.15
+2023-04-03 00:33:05,224 root INFO: main | reference price: 113.5
+2023-04-03 00:33:05,224 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:05,930 root INFO: main | sell_price: 170.0
+2023-04-03 00:33:05,930 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:05,930 root INFO: main | additional_amount: 17.025
+2023-04-03 00:33:05,931 root INFO: main | trying write data to file ./data/output.txt
+2023-04-03 00:33:05,931 root INFO: main | data: search key: ak-47 | name: AK-47 | Redline (Field-Tested) | range: 0.15 - 0.18 | reference price: 113.5 | first sell price: 170.0
+
+2023-04-03 00:33:05,931 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:06,953 root INFO: main | sell_price: 133.9
+2023-04-03 00:33:06,953 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:06,953 root INFO: main | additional_amount: 17.025
+2023-04-03 00:33:06,954 root INFO: main | trying write data to file ./data/output.txt
+2023-04-03 00:33:06,954 root INFO: main | data: search key: ak-47 | name: AK-47 | Redline (Field-Tested) | range: 0.18 - 0.21 | reference price: 113.5 | first sell price: 133.9
+
+2023-04-03 00:33:13,201 root INFO: main | reference price: 86.3
+2023-04-03 00:33:13,202 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:14,053 root INFO: main | sell_price: 98.0
+2023-04-03 00:33:14,054 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:14,054 root INFO: main | additional_amount: 12.944999999999999
+2023-04-03 00:33:14,054 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:14,940 root INFO: main | sell_price: 90.0
+2023-04-03 00:33:14,941 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:14,941 root INFO: main | additional_amount: 12.944999999999999
+2023-04-03 00:33:24,860 root INFO: main | reference price: 33.5
+2023-04-03 00:33:24,860 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:25,485 root INFO: main | sell_price: 0.0
+2023-04-03 00:33:25,486 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:25,486 root INFO: main | additional_amount: 5.0249999999999995
+2023-04-03 00:33:25,486 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:26,099 root INFO: main | sell_price: 0.0
+2023-04-03 00:33:26,099 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:26,100 root INFO: main | additional_amount: 5.0249999999999995
+2023-04-03 00:33:33,326 root INFO: main | reference price: 1.53
+2023-04-03 00:33:33,327 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:33,987 root INFO: main | sell_price: 1.65
+2023-04-03 00:33:33,987 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:33,987 root INFO: main | additional_amount: 0.22949999999999998
+2023-04-03 00:33:33,987 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:34,601 root INFO: main | sell_price: 1.55
+2023-04-03 00:33:34,601 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:34,601 root INFO: main | additional_amount: 0.22949999999999998
+2023-04-03 00:33:40,335 root INFO: main | reference price: 14.9
+2023-04-03 00:33:40,335 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:40,916 root INFO: main | sell_price: 0.0
+2023-04-03 00:33:40,916 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:40,917 root INFO: main | additional_amount: 2.235
+2023-04-03 00:33:40,917 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:42,687 root INFO: main | sell_price: 0.0
+2023-04-03 00:33:42,687 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:42,687 root INFO: main | additional_amount: 2.235
+2023-04-03 00:33:50,368 root INFO: main | reference price: 36.98
+2023-04-03 00:33:50,375 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:51,088 root INFO: main | sell_price: 38.0
+2023-04-03 00:33:51,088 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:51,089 root INFO: main | additional_amount: 5.547
+2023-04-03 00:33:51,089 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:51,626 root INFO: main | sell_price: 38.0
+2023-04-03 00:33:51,626 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:51,626 root INFO: main | additional_amount: 5.547
+2023-04-03 00:33:57,290 root INFO: main | reference price: 208.0
+2023-04-03 00:33:57,297 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:33:58,257 root INFO: main | sell_price: 239.0
+2023-04-03 00:33:58,257 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:58,258 root INFO: main | additional_amount: 31.2
+2023-04-03 00:33:58,258 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:33:58,972 root INFO: main | sell_price: 218.85
+2023-04-03 00:33:58,973 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:33:58,973 root INFO: main | additional_amount: 31.2
+2023-04-03 00:34:04,683 root INFO: main | reference price: 162.0
+2023-04-03 00:34:04,691 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:34:06,035 root INFO: main | sell_price: 0.0
+2023-04-03 00:34:06,035 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:34:06,035 root INFO: main | additional_amount: 24.3
+2023-04-03 00:34:06,036 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:34:06,752 root INFO: main | sell_price: 0.0
+2023-04-03 00:34:06,752 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:34:06,753 root INFO: main | additional_amount: 24.3
+2023-04-03 00:34:12,396 root INFO: main | reference price: 9.97
+2023-04-03 00:34:12,396 root INFO: main | paintwear quality range: [0.15, 0.18]
+2023-04-03 00:34:13,103 root INFO: main | sell_price: 11.95
+2023-04-03 00:34:13,104 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:34:13,104 root INFO: main | additional_amount: 1.4955
+2023-04-03 00:34:13,104 root INFO: main | trying write data to file ./data/output.txt
+2023-04-03 00:34:13,104 root INFO: main | data: search key: ak-47 | name: AK-47 | Elite Build (Field-Tested) | range: 0.15 - 0.18 | reference price: 9.97 | first sell price: 11.95
+
+2023-04-03 00:34:13,104 root INFO: main | paintwear quality range: [0.18, 0.21]
+2023-04-03 00:34:13,718 root INFO: main | sell_price: 10.0
+2023-04-03 00:34:13,718 root INFO: main | percentage from ref price: 0.15
+2023-04-03 00:34:13,718 root INFO: main | additional_amount: 1.4955

@@ -1,0 +1,3 @@
+OK_STATUS_RESPONSE = 'OK'
+
+SEARCH_FAILED_RESPONSE_ERROR ='error while searching'

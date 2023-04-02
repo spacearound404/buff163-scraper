@@ -1,0 +1,3 @@
+search key: ak-47 | name: AK-47 | Redline (Field-Tested) | range: 0.15 - 0.18 | reference price: 113.5 | first sell price: 170.0
+search key: ak-47 | name: AK-47 | Redline (Field-Tested) | range: 0.18 - 0.21 | reference price: 113.5 | first sell price: 133.9
+search key: ak-47 | name: AK-47 | Elite Build (Field-Tested) | range: 0.15 - 0.18 | reference price: 9.97 | first sell price: 11.95
