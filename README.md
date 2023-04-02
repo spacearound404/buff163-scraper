@@ -3,7 +3,7 @@
 [![Python: versions](
 https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)]()
 
-Collect data at BUFF163 based on a search query. It compares the reference price with the sale price, if the reference price + percentage of this price is less than the sale price, then the information about the product is written to the file.
+Collect data at BUFF163 in game CS:GO based on a search query. It compares the reference price with the sale price, if the reference price + percentage of this price is less than the sale price, then the information about the product is written to the file.
 
 ## Features
 
